@@ -1,0 +1,9 @@
+* cl-l10n-cldr
+
+The necessary CLDR files for cl-l10n packaged in a QuickLisp friendly way.
+
+|---------+-------------------------------------------------------------|
+| source  | git:https://gitlab.common-lisp.net/cl-l10n/cl-l10n-cldr.git |
+| commit  | 6a3a5b9                                                     |
+| systems | cl-l10n-cldr                                                |
+|---------+-------------------------------------------------------------|
